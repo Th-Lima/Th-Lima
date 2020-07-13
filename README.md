@@ -7,7 +7,8 @@
 #### In my free time, I play football, watch series/movies and i venture out as a gamer :tv: :video_game: :soccer:	
 
 ## Follow Me: 
-[GitHub](https://github.com/Th-Lima)
+[![instagram](https://user-images.githubusercontent.com/36715075/87362926-6b7da380-c546-11ea-8664-d961d6c86ace.png)](https://www.instagram.com/les.tha/)
+
 
 <!--
 **Th-Lima/Th-Lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
