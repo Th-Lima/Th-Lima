@@ -1,4 +1,5 @@
 # Hi there, I'm Thales 👋
+    Here you see my evolution and the technologies I'm studying
 
 #### I live in Juiz de Fora-MG, I am 23 years old and I am studying Systems Analysis and Development at Estácio de Sá, passionate about everything that involves technology and software development.
 
