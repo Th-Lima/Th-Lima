@@ -1,7 +1,15 @@
 # Hi there, I'm Thales 👋
 ![dog](https://user-images.githubusercontent.com/36715075/87364167-4a6a8200-c549-11ea-8819-7dd2b9c2f622.jpg)
 
-    Here you see my evolution and the technologies I'm studying
+    using System;
+    namespace ThalesLima {
+        class MyGithub {
+            static void Main(string[] args) {
+                Console.WriteLine("Here you see my evolution and the technologies I'm studying");
+            }
+        }
+    }
+    
 
 #### I live in Juiz de Fora-MG, I am 23 years old and I am studying Systems Analysis and Development at Estácio de Sá, passionate about everything that involves technology and software development.
 
