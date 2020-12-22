@@ -18,7 +18,7 @@
 
 ## My Development Stack/Skills
 
-### Aplication and Data
+#### Aplication and Data
 <code><img height="32" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="csharp"></img></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png" alt="dotNET"></img></code>
 <code><img height="32"  src="https://res.cloudinary.com/practicaldev/image/fetch/s--LkL103Qa--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/377/landscape/typescriptlang.png" alt="typescript"></img></code>
@@ -30,11 +30,11 @@
 <code><img height="35" src="https://img.favpng.com/22/10/16/microsoft-sql-server-computer-servers-database-png-favpng-va8JVV1AG0jXJjFwQmntXJKcq_t.jpg" alt="SQLServer"></img></code>
 <code><img height="32" src="https://cdn.worldvectorlogo.com/logos/mysql.svg" alt="MySQL"></img></code>
 
-### Utilities
+#### Utilities
 <code><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Postman"></img></code>
 <code><img height="32" src="https://hasura.io/blog/content/images/downloaded_images/setting-up-git-bash-for-windows-e26b59e44257/1-Je4yF-xdHEluVvmS0qw8JQ.png" alt="GitBash"></img></code>
 
-### DevOps
+#### DevOps
 <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"></img></code>
 <code><img height="32" src="https://aidanfinn.com/wp-content/uploads/2019/08/AzureDevOps.png" alt="AzureDevOps"></img></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="Git"></img></code>
