@@ -16,6 +16,10 @@
 
 #### In my free time, I play football, watch series/movies and i venture out as a gamer :tv: :video_game: :soccer:	
 
+## Follow Me: 
+[![instagram](https://user-images.githubusercontent.com/36715075/87362926-6b7da380-c546-11ea-8664-d961d6c86ace.png)](https://www.instagram.com/les.tha/)
+[![linkedin](https://user-images.githubusercontent.com/36715075/87363855-70435700-c548-11ea-8dd5-dc7f879318cb.png)](https://www.linkedin.com/in/thales-lima-918245191/)
+
 ## My Development Stack/Skills
 
 #### Aplication and Data
@@ -39,11 +43,6 @@
 <code><img height="32" src="https://aidanfinn.com/wp-content/uploads/2019/08/AzureDevOps.png" alt="AzureDevOps"></img></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="Git"></img></code>
 
-
-
-## Follow Me: 
-[![instagram](https://user-images.githubusercontent.com/36715075/87362926-6b7da380-c546-11ea-8664-d961d6c86ace.png)](https://www.instagram.com/les.tha/)
-[![linkedin](https://user-images.githubusercontent.com/36715075/87363855-70435700-c548-11ea-8dd5-dc7f879318cb.png)](https://www.linkedin.com/in/thales-lima-918245191/)
 
 
 <!--
