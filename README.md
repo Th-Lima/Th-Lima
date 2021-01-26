@@ -32,7 +32,7 @@
 <code><img height="32" src="https://trickdroid.org/wp-content/uploads/2019/12/Sobre-JavaScript-Definicao-Historia-Usos-e-Forcas.png" alt="JavaScript"></img></code>
 <code><img height="35" src="https://img.icons8.com/color/452/bootstrap.png" alt="Bootstrap"></img></code>
 <code><img height="35" src="https://img.favpng.com/22/10/16/microsoft-sql-server-computer-servers-database-png-favpng-va8JVV1AG0jXJjFwQmntXJKcq_t.jpg" alt="SQLServer"></img></code>
-<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/mysql.svg" alt="MySQL"></img></code>
+<code><img height="32" src="https://www.duchess-france.org/wp-content/uploads/2015/07/mysql-logo-png.png" alt="MySQL"></img></code>
 
 #### Utilities
 <code><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Postman"></img></code>
