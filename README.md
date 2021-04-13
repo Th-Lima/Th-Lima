@@ -23,7 +23,7 @@
 ## My Development Stack/Skills
 
 #### Aplication and Data
-<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="csharp"></img></code>
+<code><img height="32" src="https://static.cdnlogo.com/logos/c/27/c.svg" alt="csharp"></img></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png" alt="dotNET"></img></code>
 <code><img height="32"  src="https://res.cloudinary.com/practicaldev/image/fetch/s--LkL103Qa--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/377/landscape/typescriptlang.png" alt="typescript"></img></code>
 <code><img height="32"  src="https://img2.gratispng.com/20180701/rht/kisspng-angularjs-logo-javascript-security-token-5b38e22b8a3f38.7851363415304545715663.jpg" alt="Angular"></img></code>
