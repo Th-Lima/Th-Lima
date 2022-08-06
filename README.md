@@ -14,7 +14,7 @@
 
 #### :computer: I like to learn and study technologies, architectures and new concepts, I always look for updates, although it is not an easy task in the area of ​​ Technology :smile:. 
 
-#### In my free time, I like play football, watch series / movies and play video games:tv: :video_game: :soccer:	
+#### In my free time, I like play football, watch series/movies and play video games:tv: :video_game: :soccer:	
 
 ## Follow Me: 
 <code>[![instagram](https://user-images.githubusercontent.com/36715075/87362926-6b7da380-c546-11ea-8664-d961d6c86ace.png)](https://www.instagram.com/les.tha/)</code>
