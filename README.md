@@ -17,7 +17,7 @@
 #### In my free time, I like play soccer, watch series/movies and play video games:tv: :video_game: :soccer:	
 
 ## Follow Me: 
-<code>[![instagram](https://user-images.githubusercontent.com/36715075/87362926-6b7da380-c546-11ea-8664-d961d6c86ace.png)](https://www.instagram.com/les.tha/)</code>
+<code>[![instagram](https://user-images.githubusercontent.com/36715075/87362926-6b7da380-c546-11ea-8664-d961d6c86ace.png)](https://www.instagram.com/oneless.tha/)</code>
 <code>[![linkedin](https://user-images.githubusercontent.com/36715075/87363855-70435700-c548-11ea-8dd5-dc7f879318cb.png)](https://www.linkedin.com/in/thales-lima-918245191/)</code>
 
 ## My Development Stack/Skills
