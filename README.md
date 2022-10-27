@@ -10,7 +10,7 @@
     }
     
 
-#### I live in Juiz de Fora-MG, I'm 25 years old and graduated in Systems Analysis and Development at Estácio de Sá, passionate about everything that involves technology and software development.
+#### I live in Juiz de Fora-MG, I'm 26 years old and graduated in Systems Analysis and Development at Estácio de Sá, passionate about everything that involves technology and software development.
 
 #### :computer: I like to learn and study technologies, architectures and new concepts, I always look for updates, although it is not an easy task in the area of ​​ Technology :smile:. 
 
