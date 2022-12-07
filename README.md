@@ -49,10 +49,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th-Lima&layout=compact&theme=dark"/>
 <div>
 
-![Th-Lima Status](https://github-readme-stats.vercel.app/api?username=Th-Lima&show_icons=true&theme=dark) 
----
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Th-Lima&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!--
 **Th-Lima/Th-Lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
