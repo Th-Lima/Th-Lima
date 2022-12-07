@@ -44,6 +44,11 @@
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="Git"></img></code>
 
 ## About 
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Th-Lima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th-Lima&layout=compact&theme=dark"/>
+<div>
+
 ![Th-Lima Status](https://github-readme-stats.vercel.app/api?username=Th-Lima&show_icons=true&theme=dark) 
 ---
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Th-Lima&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
