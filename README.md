@@ -1,5 +1,6 @@
-   
-                Console.WriteLine("Here you see my evolution and the technologies I'm studying");
+```c#
+Console.WriteLine("Here you see my evolution and the technologies I'm studying");
+```
 
 # Hi there, I'm Thales 👋
 
