@@ -1,11 +1,5 @@
-    using System;
-    namespace ThalesLima {
-        class MyGithub {
-            static void Main(string[] args) {
+   
                 Console.WriteLine("Here you see my evolution and the technologies I'm studying");
-            }
-        }
-    }
 
 # Hi there, I'm Thales 👋
 
