@@ -8,63 +8,62 @@ Console.WriteLine("Here you see my evolution and the technologies I'm studying")
 
 ## Work experience in the last years:
 
-< [ BACK-END ]
-
+#### [ BACK-END ]
  - C# / .NET / ASP.NET MVC Core / ASP.NET CORE WEBAPI
 
-[ FRONT-END ]
+#### [ FRONT-END ]
  - HTML5 / CSS3 / Javascript / Jquery / Typescript / Angular
 
-[ ORM ]
+#### [ ORM ]
  - Entity Framework Core
 
-[ AUTHENTICATION & AUTHORIZATION ]
+#### [ AUTHENTICATION & AUTHORIZATION ]
  - JWT
 
-[ TESTS ]
+#### [ TESTS ]
  - xUnit / Moq / Fluent Assertions / TDD
 
-[ SOURCE CONTROL ]
+#### [ SOURCE CONTROL ]
  - Github / Azure DevOps
 
-[ SQL ]
+#### [ SQL ]
  - SQLServer
 
-[ NoSQL ]
+#### [ NoSQL ]
  - MongoDB
 
-[ AGILE METHODOLOGIES ]
+#### [ AGILE METHODOLOGIES ]
  - Scrum / Kanban
 
-[ PROCESSES AND TEAMWORK ]
+#### [ PROCESSES AND TEAMWORK ]
  - DevOps / Pair Programming
 
-[ MESSAGING ]
+#### [ MESSAGING ]
  - RabbitMQ
 
-[ SOFTWARE ARCHITECTURE, DESIGN & BEST PRACTICIES ]
+#### [ SOFTWARE ARCHITECTURE, DESIGN & BEST PRACTICIES ]
  - Design Patterns / SOLID / Clean Code
  - DDD / POO / MediatR / CQRS 
  - Retry pattern / Circuit Breaker / Refresh Token
 
-[ TYPES OF APPLICATIONS ]
+#### [ TYPES OF APPLICATIONS ]
  - API REST / Monoliths / Microservices / MVC
 
- [ CI /CD ]
+ #### [ CI /CD ]
  - Azure DevOps Pipelines
 
-[ CONTAINERS ]
+#### [ CONTAINERS ]
  - Docker
 
-[ OBSERVABILITY ]
+#### [ OBSERVABILITY ]
  - Elastic Kibana
 
-[ VERSION CONTROL ]
+#### [ VERSION CONTROL ]
  - Git
 
-[ TOOLS AND QUALITY ]
+#### [ TOOLS AND QUALITY ]
  - Sonar / Visual Studio / VSCode / Postman / Docker Desktop / GitBash / Mongo Compass 
->
+
 ## Follow Me: 
 <code>[![linkedin](https://user-images.githubusercontent.com/36715075/87363855-70435700-c548-11ea-8dd5-dc7f879318cb.png)](https://www.linkedin.com/in/thales-lima-918245191/)</code>
 
