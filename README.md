@@ -4,7 +4,8 @@ Console.WriteLine("Here you see my evolution and the technologies I'm studying")
 
 # Hi there, I'm Thales 👋
 
-### I'm a Software Developer, with more than 3 years of experience, developing large applications. With greater emphasis on C# language and .NET platform 
+### I'm a Software Developer, with more than 3 years of experience, developing large applications. 
+### With greater emphasis on C# language and .NET platform 
 
 ## Work experience in the last years:
 
