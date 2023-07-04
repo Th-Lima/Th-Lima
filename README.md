@@ -8,7 +8,7 @@ Console.WriteLine("Here you see my evolution and the technologies I'm studying")
 
 ## Work experience in the last years:
 
-[ BACK-END ]
+< [ BACK-END ]
 
  - C# / .NET / ASP.NET MVC Core / ASP.NET CORE WEBAPI
 
@@ -64,7 +64,7 @@ Console.WriteLine("Here you see my evolution and the technologies I'm studying")
 
 [ TOOLS AND QUALITY ]
  - Sonar / Visual Studio / VSCode / Postman / Docker Desktop / GitBash / Mongo Compass 
-
+>
 ## Follow Me: 
 <code>[![linkedin](https://user-images.githubusercontent.com/36715075/87363855-70435700-c548-11ea-8dd5-dc7f879318cb.png)](https://www.linkedin.com/in/thales-lima-918245191/)</code>
 
