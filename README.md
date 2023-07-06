@@ -9,61 +9,41 @@ With greater emphasis on C# language and .NET platform.
 
 ## Work experience in the last years:
 
-#### [ BACK-END ]
- - C# / .NET / ASP.NET MVC Core / ASP.NET CORE WEBAPI
+#### [ BACK-END ] >> `C# / .NET / ASP.NET MVC Core / ASP.NET CORE WEBAPI)`
 
-#### [ FRONT-END ]
- - HTML5 / CSS3 / Javascript / Jquery / Typescript / Angular
+#### [ FRONT-END ] >> `HTML5 / CSS3 / Javascript / Jquery / Typescript / Angular`
 
-#### [ ORM ]
- - Entity Framework Core
+#### [ ORM ] >> `Entity Framework Core / Dapper`
 
-#### [ AUTHENTICATION & AUTHORIZATION ]
- - JWT
+#### [ AUTHENTICATION & AUTHORIZATION ] >> `JWT`
 
-#### [ TESTS ]
- - xUnit / Moq / Fluent Assertions / TDD
+#### [ TESTS ] >> `xUnit / Moq / Fluent Assertions / TDD`
 
-#### [ SOURCE CONTROL ]
- - Github / Azure DevOps
+#### [ SOURCE CONTROL ] >> `Github / Azure DevOps`
 
-#### [ SQL ]
- - SQLServer
+#### [ SQL ] >> `SQLServer`
 
-#### [ NoSQL ]
- - MongoDB
+#### [ NoSQL ] >> `MongoDB`
 
-#### [ AGILE METHODOLOGIES ]
- - Scrum / Kanban
+#### [ AGILE METHODOLOGIES ] >> `Scrum / Kanban`
 
-#### [ PROCESSES AND TEAMWORK ]
- - DevOps / Pair Programming
+#### [ PROCESSES AND TEAMWORK ] >> `DevOps / Pair Programming`
 
-#### [ MESSAGING ]
- - RabbitMQ
+#### [ MESSAGING ] >> `RabbitMQ`
 
-#### [ SOFTWARE ARCHITECTURE, DESIGN & BEST PRACTICIES ]
- - Design Patterns / SOLID / Clean Code
- - DDD / POO / MediatR / CQRS 
- - Retry pattern / Circuit Breaker / Refresh Token
+#### [ SOFTWARE ARCHITECTURE, DESIGN & BEST PRACTICIES ] >> `Design Patterns / SOLID / Clean Code / DDD / POO / MediatR / CQRS / Retry pattern / Circuit Breaker / Refresh Token`
 
-#### [ TYPES OF APPLICATIONS ]
- - API REST / Monoliths / Microservices / MVC
+#### [ TYPES OF APPLICATIONS ] >> `API REST / Monoliths / Microservices / MVC`
 
- #### [ CI /CD ]
- - Azure DevOps Pipelines
+#### [ CI /CD ] >> `Azure DevOps Pipelines`
 
-#### [ CONTAINERS ]
- - Docker
+#### [ CONTAINERS ] >> `Docker`
 
-#### [ OBSERVABILITY ]
- - Elastic Kibana
+#### [ OBSERVABILITY ] >> `Elastic Kibana`
 
-#### [ VERSION CONTROL ]
- - Git
+#### [ VERSION CONTROL ] >> `Git`
 
-#### [ TOOLS AND QUALITY ]
- - Sonar / Visual Studio / VSCode / Postman / Docker Desktop / GitBash / Mongo Compass 
+#### [ TOOLS AND QUALITY ] >>> `Sonar / Visual Studio / VSCode / Postman / Docker Desktop / GitBash / Mongo Compass`
 
 ## Follow Me: 
 <code>[![linkedin](https://user-images.githubusercontent.com/36715075/87363855-70435700-c548-11ea-8dd5-dc7f879318cb.png)](https://www.linkedin.com/in/thales-lima-918245191/)</code>
