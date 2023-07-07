@@ -9,41 +9,28 @@ With greater emphasis on C# language and .NET platform.
 
 ## Work experience in the last years:
 
-#### [ BACK-END ] >> `C# / .NET / ASP.NET MVC Core / ASP.NET CORE WEBAPI)`
 
-#### [ FRONT-END ] >> `HTML5 / CSS3 / Javascript / Jquery / Typescript / Angular`
-
-#### [ ORM ] >> `Entity Framework Core / Dapper`
-
-#### [ AUTHENTICATION & AUTHORIZATION ] >> `JWT`
-
-#### [ TESTS ] >> `xUnit / Moq / Fluent Assertions / TDD`
-
-#### [ SOURCE CONTROL ] >> `Github / Azure DevOps`
-
-#### [ SQL ] >> `SQLServer`
-
-#### [ NoSQL ] >> `MongoDB`
-
-#### [ AGILE METHODOLOGIES ] >> `Scrum / Kanban`
-
-#### [ PROCESSES AND TEAMWORK ] >> `DevOps / Pair Programming`
-
-#### [ MESSAGING ] >> `RabbitMQ`
-
-#### [ SOFTWARE ARCHITECTURE, DESIGN & BEST PRACTICIES ] >> `Design Patterns / SOLID / Clean Code / DDD / POO / MediatR / CQRS / Retry pattern / Circuit Breaker / Refresh Token`
-
-#### [ TYPES OF APPLICATIONS ] >> `API REST / Monoliths / Microservices / MVC`
-
-#### [ CI /CD ] >> `Azure DevOps Pipelines`
-
-#### [ CONTAINERS ] >> `Docker`
-
-#### [ OBSERVABILITY ] >> `Elastic Kibana`
-
-#### [ VERSION CONTROL ] >> `Git`
-
-#### [ TOOLS AND QUALITY ] >>> `Sonar / Visual Studio / VSCode / Postman / Docker Desktop / GitBash / Mongo Compass`
+Skills   | Techs
+--------- | ------
+BACK-END | C# - .NET 5+ - ASP.NET MVC Core - ASP.NET CORE WEBAPI
+FRONT-END | HTML5 - CSS3 - JAVASCRIPT - JQUERY - TYPESCRIPT - ANGULAR
+ORM | ENTITY FRAMEWORK CORE - DAPPER
+AUTHENTICATION & AUTHORIZATION | JWT
+TESTS | xUnit - MOQ - FLUENT ASSERTIONS - TDD
+SOURCE CONTROL | GITHUB - AZURE DEVOPS
+SQL | SQLServer
+NOSQL | MONGODB
+AGILE METHODOLOGIES | SCRUM - KANBAN
+PROCESSES AND TEAMWORK | DEVOPS - PAIR PROGRAMMING
+MESSAGING | RABBITMQ
+SOFTWARE ARCHITECTURE, DESIGN & BEST PRACTICIES | DESIGN PATTERNS - SOLID - CLEAN CODE - DDD - POO - MEDIATR - CQRS - RETRY PATTERN - CIRCUIT BRAKER - REFRESH TOKEN
+TYPES OF APPLICATIONS | API REST - Monoliths - Microservices - MVC
+CI / CD | AZURE DEVOPS PIPELINES
+CLOUD | AZURE
+CONTAINERS | DOCKER 
+OBSERVABILITY | ELASTIC KIBANA
+VERSION CONTROL | GIT
+TOOLS AND QUALITY | SONARQUBE - VISUAL STUDIO - VSCODE - POSTMAN - DOCKER DESKTOP/PORTAINER - GITBASH - MONGOCOMPASS - SQLSERVER MANAGEMET STUDIO - AZURE DATA STUDIO
 
 ## Follow Me: 
 <code>[![linkedin](https://user-images.githubusercontent.com/36715075/87363855-70435700-c548-11ea-8dd5-dc7f879318cb.png)](https://www.linkedin.com/in/thales-lima-918245191/)</code>
